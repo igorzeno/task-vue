@@ -1,0 +1,10 @@
+.table > .w1 {
+    width: 120px;
+}
+
+@media (min-width: 1200px) {
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1640px;
+    }
+}
+
